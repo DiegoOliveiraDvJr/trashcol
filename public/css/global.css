@@ -1,0 +1,16 @@
+body, html {
+    font-size: 10px;
+    line-height: 10px;
+}
+.bg-face{
+    background-color: #1a538a;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.bordaRadius{
+    border-radius: 1rem;
+}
+.cursor-pointer{
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+Create the 'trashcol' database and run sql
