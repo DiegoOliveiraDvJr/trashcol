@@ -6,6 +6,12 @@
 ## Capturas de Tela
 
 
-![Inicio](prints/1_.jpeg)![Inicio](prints/1__.jpeg)
-![Inicio](prints/2_.jpeg)![Inicio](prints/3_.jpeg)![Inicio](prints/4_.jpeg)
+<p float="left">
+  <img src="prints/1_.jpeg" width="300" />
+  <img src="prints/1__.jpeg" width="300" /> 
+  <img src="prints/2_.jpeg" width="300" />
+  <img src="prints/3_.jpeg" width="300" />
+  <img src="prints/4_.jpeg" width="300" />
+</p>
+
 
