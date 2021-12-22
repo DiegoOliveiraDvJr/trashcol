@@ -5,8 +5,5 @@
 
 ## Capturas de Tela
 
-![Inicio](prints/1_.jpeg)
-![Inicio](prints/1__.jpeg)
-![Inicio](prints/2_.jpeg)
-![Inicio](prints/3_.jpeg)
-![Inicio](prints/4_.jpeg)
+![Inicio](prints/1_.jpeg) ![Inicio](prints/1__.jpeg)
+![Inicio](prints/2_.jpeg)![Inicio](prints/3_.jpeg)![Inicio](prints/4_.jpeg)
